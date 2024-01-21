@@ -15,3 +15,4 @@ import html2canvas from "../../lib/html2canvas";
                 // do sth
               });
 ```
+ 
